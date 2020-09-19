@@ -1,0 +1,11 @@
+{
+  "name": "watch_file",
+  "version": "0.1.0",
+  "description": "output last line of file on change",
+  "main": "watch_file.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "laz.brannigan@gmail.com",
+  "license": "GPL-3.0"
+}

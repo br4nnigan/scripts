@@ -1,0 +1,1 @@
+node F:\workspace\scripts\query_ts\query_ts.js

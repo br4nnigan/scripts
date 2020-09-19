@@ -1,0 +1,11 @@
+{
+  "name": "match",
+  "version": "1.0.0",
+  "description": "reg ex match function",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "laz.brannigan@gmail.com",
+  "license": "GPL-3.0"
+}
